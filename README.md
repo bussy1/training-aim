@@ -14,6 +14,7 @@ $ cd aim-training
 $ pip install -r requirements.txt
 $ python aim.py
 ```
+![screen](https://i.imgur.com/vU3Zk2m.png)
 
 
 **Free Software by denis244!**
