@@ -9,7 +9,7 @@
 ### Установка
 
 ```sh
-$ git clone https://github.com/bussy1/aim-training
+$ git clone https://github.com/bussy1/training-aim
 $ cd aim-training
 $ pip install -r requirements.txt
 $ python aim.py
